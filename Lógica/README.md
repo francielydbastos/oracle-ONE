@@ -1,0 +1,1 @@
+Projetos de estudo referentes aos cursos "Lógica de programação I: crie programas com Javascript e HTML" e "Lógica de programação II: pratique com desenhos, animações e um jogo", da plataforma da Alura.
