@@ -1,0 +1,1 @@
+Projetos desenvolvidos durante o treinamento ONE da Oracle em parceria com a Alura.
